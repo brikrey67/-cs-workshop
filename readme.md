@@ -357,10 +357,10 @@ Linked lists are linear collections of data that consist of nodes with data and 
 
 Linked lists do not need to be stored contiguously in memory like an array, so insertion and deletion is relatively simple. They do not natively support accessing one data node or indexing through operations. These operations are normally performed just by looping through the nodes. They use more memory than arrays since they store pointers to the next link(s).
 
-Singly Linked List
+#### Singly Linked List
 ![](https://camo.githubusercontent.com/607cc2bd3479d1a64b384013f2fddcc61518ee0b/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36642f53696e676c792d6c696e6b65642d6c6973742e7376672f34303870782d53696e676c792d6c696e6b65642d6c6973742e7376672e706e67)
 
-Doubly Linked List
+#### Doubly Linked List
 ![](https://camo.githubusercontent.com/e721d88260c3b8f1971cf3fcc8a291e7936fa731/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f352f35652f446f75626c792d6c696e6b65642d6c6973742e7376672f36313070782d446f75626c792d6c696e6b65642d6c6973742e7376672e706e67)
 
 
