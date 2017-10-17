@@ -3,7 +3,7 @@
 ## Learning Objectives
 * Define computer science and discuss how it is useful for web developers.
 * Define the word `algorithm`.
-* Use asymptotic analysis to analyze the complexity of different algorithms.
+* Use Big-O notation to analyze the complexity of different algorithms.
 * Implement multiple sorting algorithms.
 * Understand basic data structures and why they are useful.
 
